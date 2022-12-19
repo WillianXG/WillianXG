@@ -43,3 +43,5 @@ Technologies i've learning
 
 ## </p> Working in progress :hammer::warning:
 
+![snake gif](https://github.com/WillianXG/WillianXG/blob/output/github-contribution-grid-snake.svg)
+
