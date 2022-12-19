@@ -40,8 +40,12 @@ Technologies i've learning
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianXG&layout=compact&langs_count=16&theme=github_dark"
   />
 </div>
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WillianXG/count.svg" /></p>
+
 
 ## </p> Working in progress :hammer::warning:
 
 ![snake gif](https://github.com/WillianXG/WillianXG/blob/output/github-contribution-grid-snake.svg)
+
 
