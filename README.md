@@ -1,14 +1,8 @@
 # <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Francisco Santos</h1>
 
-  <!--### Total viewers :alien:
-  [![Image of https://github.com/WillianXG/profile-view-counter](https://github.com/WillianXG/profile-view-counter/blob/master/svg/profile/badge.svg)]
--->
 <a href="https://www.linkedin.com/in/francisco-willian-dos-santos-silva-36072b250//"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="120px"/></a>
 
-
-Technologies i've learning
-===========================
-
+## Technologies I've learned
 <div style="display: inline_block">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -26,10 +20,6 @@ Technologies i've learning
 
 <div>
   <a href="https://github.com/WillianXG"/>
-  <!-- <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=WillianXG&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
-  /> -->
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=WillianXG&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"
@@ -39,12 +29,12 @@ Technologies i've learning
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianXG&layout=compact&langs_count=16&theme=github_dark"
   />
 </div>
-</br>
+
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WillianXG/count.svg" /></p>
 
-
-## </p> Working in progress :hammer::warning:
+## Working in progress :hammer::warning:
 
 ![snake gif](https://github.com/WillianXG/WillianXG/blob/output/github-contribution-grid-snake.svg)
+
 
 
