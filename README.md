@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Francisco and I'm a data analytics , from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Francisco and I'm a delevoper , from Brazil.</h2>
 
 ###
 
