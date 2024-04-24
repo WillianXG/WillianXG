@@ -93,7 +93,6 @@
 
 [![An image of @willianxg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/willianxg)](https://holopin.io/@willianxg)
 
-
 ###
 
 
