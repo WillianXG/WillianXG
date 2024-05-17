@@ -92,7 +92,17 @@
 [![An image of @willianxg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/willianxg)](https://holopin.io/@willianxg)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillianXG/WillianXG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillianXG/WillianXG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillianXG/WillianXG/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
 ###
+
+
 
 
 <p align="center">Hello World!!🔥🔥🔥</p>
